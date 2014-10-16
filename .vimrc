@@ -83,8 +83,6 @@ filetype plugin indent on
 Bundle 'scrooloose/nerdtree'
 map <leader>nd :NERDTreeToggle<CR>
 
-Bundle 'scrooloose/nerdcommenter'
-
 Bundle 'minibufexpl.vim'
 let g:miniBufExplForceSyntaxEnable=1 
 nmap <leader><tab> :bn<CR>
